@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Profile797</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="n1">name</string>
+    <string name="a1">age</string>
+    <string name="b1">birthday</string>
+    <string name="h1">hight</string>
+    <string name="w1">weight</string>
+    <string name="n">nickname</string>
+    <string name="e1">e-mail</string>
+    <string name="f1">facebook</string>
+    <string name="nn">Nutsudapan Kaenvichit</string>
+    <string name="k1">Kookkik</string>
+    <string name="k2">160 cm</string>
+    <string name="k3">58 kg</string>
+    <string name="k4">02/03/37</string>
+    <string name="k5">kookik_maxky_it@hotmail.com</string>
+    <string name="k6">kookkik nutsudapan</string>
+    <string name="aaa1">20</string>
+
+</resources>
